@@ -1,3 +1,9 @@
 {
+    mainUrl: 'http://page.renren.com/600916099'
     
+    availableUrls: {
+        '/',
+        '/channel-1473',
+        '/channel-albumlist'
+    }
 }
